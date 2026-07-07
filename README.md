@@ -6,7 +6,7 @@ A simple, lightweight HTTP and DNS server to host PS4 exploits on a local networ
 
 ## Preview
 
-![PS4 HTTP DNS Host Server](assets/http_dns_server.png)
+![PS4 HTTP DNS Host Server](assets/http_dns__server.png)
 
 ---
 
