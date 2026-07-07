@@ -17,6 +17,14 @@ A simple, lightweight HTTP and DNS server to host PS4 exploits on a local networ
 
 ---
 
+## Highlights
+
+- Auto-generates `offline.cache` so the PS4 can cache the exploit for offline use
+- Runs multi-threaded so multiple PS4 requests are handled simultaneously
+
+---
+
+
 ## Where To Place Your Exploit Files
 
 ```
@@ -63,14 +71,6 @@ psphive-lapse-2-main/
 1. Set **Primary DNS** to your PC's IP same as Method B
 2. From PS4 home screen open **User's Guide**
 3. It automatically navigates to `manuals.playstation.net` which DNS redirects to your server
-
----
-
-## How offline.cache Works
-
-- Auto-generates `offline.cache` so the PS4 can cache the exploit for offline use
-- Runs multi-threaded so multiple PS4 requests are handled simultaneously
-
 
 ---
 
